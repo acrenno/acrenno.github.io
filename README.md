@@ -17,23 +17,4 @@ Dashboard web desenvolvido para a disciplina de Interface Homem-Máquina (IHM) d
 - Web Components com Shadow DOM
 - JSON para dados das aulas
 
-## Como rodar
 
-```bash
-cd rodar
-npx serve .
-```
-
-Acesse `http://localhost:3000` no navegador.
-
-## Estrutura
-
-```
-rodar/
-├── index.html
-├── style.css
-├── script.js
-├── script_componente.js
-├── styles_componente.css
-└── aulas.json
-```
